@@ -6,7 +6,7 @@ Denle prioridad a los siguientes subtemas:
 - DAC , MAC , RBAC (Hagan incapie en los casos en los que se aplica cada uno).
 - Estudian las fases de "Respuesta a Incidentes" , "Continuidad del Negocio" , "Recuperación ante Desastres" (las preguntas son al respecto de que hace cada uno y sobre sus fases).
 - Los tipos de amenazas (habrá preguntas que te daran una descripción de una amenaza y debes saber identificarla).
-- Código de Etica (hay preguntas en las que te dan un contexto y te dicen que se deberia hacer , tu debes marcar la opción que más se apegue al código de etica en el orden que menciona el curso)
+- Código de Etica (hay preguntas en las que te dan un contexto y te dicen que se deberia hacer , tu debes marcar la opción que más se apegue al código de etica en el orden que menciona el curso).
 - Hay preguntas en las cuales te dan un contexto y tienes que saber a que elemento de la triada se refieren.
 - Hay demasiadas preguntas en las cuales te dan un contexto y te piden que selecciones cual sería la mejor práctica de seguridad (casi siempre hay 2 respuestas correctas, pero debes apegarte al que es más general).
 
